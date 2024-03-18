@@ -1,0 +1,15 @@
+{
+  "name": "boas_praticas_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc ./build/styles/main.css ./src/styles/main.less",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^4.2.0"
+  }
+}
